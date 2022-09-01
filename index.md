@@ -26,6 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+**_Hello! My name is Kayoon_**
+_This is my website for **CS 180**_
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
